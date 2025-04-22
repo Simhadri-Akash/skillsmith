@@ -5,17 +5,17 @@ import rateLimit from 'express-rate-limit';
 import helmet from 'helmet';
 import mongoSanitize from 'express-mongo-sanitize';
 import xss from 'xss-clean';
-import connectDB from '../server/config/db.js';
-import authRoutes from '../server/routes/auth.js';
-import courseRoutes from '../server/routes/courses.js';
-import enrollmentRoutes from '../server/routes/enrollments.js';
-import teacherRoutes from '../server/routes/teacher.js';
-import deadlineRoutes from '../server/routes/deadlines.js';
-import assignmentRoutes from '../server/routes/assignments.js';
-import videoRoutes from '../server/routes/videos.js';
-import materialRoutes from '../server/routes/materials.js';
-import certificateRoutes from '../server/routes/certificates.js';
-import contentRoutes from '../server/routes/content.js';
+import connectDB from './config/db.js';
+import authRoutes from './routes/auth.js';
+import courseRoutes from './routes/courses.js';
+import enrollmentRoutes from './routes/enrollments.js';
+import teacherRoutes from './routes/teacher.js';
+import deadlineRoutes from './routes/deadlines.js';
+import assignmentRoutes from './routes/assignments.js';
+import videoRoutes from './routes/videos.js';
+import materialRoutes from './routes/materials.js';
+import certificateRoutes from './routes/certificates.js';
+import contentRoutes from './routes/content.js';
 
 dotenv.config();
 
