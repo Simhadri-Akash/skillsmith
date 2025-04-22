@@ -1,0 +1,56 @@
+[
+  {
+    "id": "b7073846-3cbb-418f-8249-9e6d8a288613",
+    "title": "Introduction to HTML",
+    "courseId": 1,
+    "order": 1
+  },
+  {
+    "id": "8f8ccdd3-a777-43c9-99fc-3b52b06eed3b",
+    "title": "CSS Styling Basics",
+    "courseId": 1,
+    "order": 2
+  },
+  {
+    "id": "c689f7db-892d-4a23-a3e4-ed614e0b04b2",
+    "title": "JavaScript Fundamentals",
+    "courseId": 1,
+    "order": 3
+  },
+  {
+    "id": "b97280d2-2958-4d14-916d-b40b291c1e24",
+    "title": "React Basics",
+    "courseId": 2,
+    "order": 1
+  },
+  {
+    "id": "855648e7-3f90-4bef-bf0b-fc1673b22ca5",
+    "title": "Working with Components",
+    "courseId": 2,
+    "order": 2
+  },
+  {
+    "id": "87e8bd70-9c87-420f-b6d9-e9541a42938c",
+    "title": "State and Hooks",
+    "courseId": 2,
+    "order": 3
+  },
+  {
+    "id": "5c9284a4-df86-4993-96e0-0de0ab6e52cc",
+    "title": "Node.js Introduction",
+    "courseId": 3,
+    "order": 1
+  },
+  {
+    "id": "05b08d7f-4a4a-4f26-ada5-11db1c0e69f3",
+    "title": "Express Framework",
+    "courseId": 3,
+    "order": 2
+  },
+  {
+    "id": "54a61abe-6f8c-4b23-936e-d91e65c68b26",
+    "title": "Database Integration",
+    "courseId": 3,
+    "order": 3
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "HTML Document Structure",
+    "description": "Learn the basic structure of an HTML document and how to create your first webpage.",
+    "url": "https://www.youtube.com/embed/UB1O30fR-EE",
+    "duration": 720,
+    "resolution": "1080p",
+    "sectionId": "b7073846-3cbb-418f-8249-9e6d8a288613",
+    "courseId": 1,
+    "order": 1
+  },
+  {
+    "title": "Working with HTML Tags",
+    "description": "Explore the most common HTML tags and how to use them effectively.",
+    "url": "https://www.youtube.com/embed/DPnqb74Smug",
+    "duration": 840,
+    "resolution": "1080p",
+    "sectionId": "b7073846-3cbb-418f-8249-9e6d8a288613",
+    "courseId": 1,
+    "order": 2
+  },
+  {
+    "title": "CSS Selectors",
+    "description": "Master CSS selectors to target and style HTML elements.",
+    "url": "https://www.youtube.com/embed/l1mER1bV0N0",
+    "duration": 780,
+    "resolution": "1080p",
+    "sectionId": "8f8ccdd3-a777-43c9-99fc-3b52b06eed3b",
+    "courseId": 1,
+    "order": 1
+  },
+  {
+    "title": "CSS Box Model",
+    "description": "Understand the CSS box model and how it affects layout.",
+    "url": "https://www.youtube.com/embed/rIO5326FgPE",
+    "duration": 660,
+    "resolution": "1080p",
+    "sectionId": "8f8ccdd3-a777-43c9-99fc-3b52b06eed3b",
+    "courseId": 1,
+    "order": 2
+  },
+  {
+    "title": "Introduction to React",
+    "description": "Learn what React is and why it's so popular for building user interfaces.",
+    "url": "https://www.youtube.com/embed/Tn6-PIqc4UM",
+    "duration": 900,
+    "resolution": "1080p",
+    "sectionId": "b97280d2-2958-4d14-916d-b40b291c1e24",
+    "courseId": 2,
+    "order": 1
+  },
+  {
+    "title": "Setting Up Your React Environment",
+    "description": "Set up your development environment for React projects.",
+    "url": "https://www.youtube.com/embed/w7ejDZ8SWv8",
+    "duration": 780,
+    "resolution": "1080p",
+    "sectionId": "b97280d2-2958-4d14-916d-b40b291c1e24",
+    "courseId": 2,
+    "order": 2
+  },
+  {
+    "title": "What is Node.js?",
+    "description": "Understand what Node.js is and how it enables JavaScript on the server.",
+    "url": "https://www.youtube.com/embed/uVwtVBpw7RQ",
+    "duration": 840,
+    "resolution": "1080p",
+    "sectionId": "5c9284a4-df86-4993-96e0-0de0ab6e52cc",
+    "courseId": 3,
+    "order": 1
+  },
+  {
+    "title": "Installing Node.js and NPM",
+    "description": "Learn how to install Node.js and NPM on your system.",
+    "url": "https://www.youtube.com/embed/3F5IaPqj7ds",
+    "duration": 720,
+    "resolution": "1080p",
+    "sectionId": "5c9284a4-df86-4993-96e0-0de0ab6e52cc",
+    "courseId": 3,
+    "order": 2
+  }
+]
